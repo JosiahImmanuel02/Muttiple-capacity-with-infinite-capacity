@@ -19,11 +19,15 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
+![exp](https://github.com/user-attachments/assets/dffda2ca-d690-4d6f-8a22-d3a1d63ebd75)
 
 ## Program
+![ex 05](https://github.com/user-attachments/assets/72390e1a-9bfc-43ea-b8bf-bfe1ad1f0dc5)
 
 
 ## Output :
+![output](https://github.com/user-attachments/assets/e7cde7f3-412a-464b-a317-07154d29082b)
 
 ## Result : 
 
+thus, the program is exuted successfuly
